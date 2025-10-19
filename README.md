@@ -19,17 +19,16 @@ Farmacêutico generalista formado pela Universidade Federal do Ceará (UFC) com 
 
 ### GitHub Stats
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-    <tr>
-        <td align="center" style="padding: 0;">
-            <a href="https://github.com/raylanraraujo">
-                <img src="https://github-readme-stats.vercel.app/api?username=raylanraraujo&show_icons=true&theme=radical&border_color=30A3DC&bg_color=1F222E&title_color=E9D5F&text_color=FFF" alt="Raylan Araújo's GitHub Stats" />
-            </a>
-        </td>
-        <td align="center" style="padding: 0;">
-            <a href="https://github.com/raylanraraujo">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raylanraraujo&layout=compact&theme=radical&border_color=30A3DC&bg_color=1F222E&title_color=E9D5F&text_color=FFF" alt="Most Used Languages" />
-            </a>
-        </td>
-    </tr>
-</table>
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 300px; margin: 5px;">
+        <a href="https://github.com/raylanraraujo">
+            <img src="https://github-readme-stats.vercel.app/api?username=raylanraraujo&show_icons=true&theme=radical&border_color=30A3DC&bg_color=1F222E&title_color=E9D5F&text_color=FFF" alt="Raylan Araújo's GitHub Stats" />
+        </a>
+    </div>
+
+    <div style="flex: 1; min-width: 300px; margin: 5px;">
+        <a href="https://github.com/raylanraraujo">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raylanraraujo&layout=compact&theme=radical&border_color=30A3DC&bg_color=1F222E&title_color=E9D5F&text_color=FFF" alt="Most Used Languages" />
+        </a>
+    </div>
+</div>
