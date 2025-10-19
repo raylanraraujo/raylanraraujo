@@ -31,3 +31,7 @@ Farmacêutico generalista formado pela Universidade Federal do Ceará (UFC) com 
   </div>
 </div>
 
+### GitHub Stats
+
+| <a href="https://github.com/raylanraraujo"><img src="https://github-readme-stats.vercel.app/api?username=raylanraraujo&show_icons=true&theme=radical&border_color=30A3DC&bg_color=1F222E&title_color=E9D5FF&text_color=FFF" alt="Raylan Araújo's GitHub Stats" /></a> | <a href="https://github.com/raylanraraujo"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raylanraraujo&layout=compact&theme=radical&border_color=30A3DC&bg_color=1F222E&title_color=E9D5FF&text_color=FFF" alt="Most Used Languages" /></a> |
+|---|---|
