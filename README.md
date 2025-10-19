@@ -33,30 +33,7 @@ Farmacêutico generalista formado pela Universidade Federal do Ceará (UFC) com 
 
 ### GitHub Stats
 
-| <a href="https://github.com/raylanraraujo"><img src="https://github-readme-stats.vercel.app/api?username=raylanraraujo&show_icons=true&theme=radical&border_color=30A3DC&bg_color=1F222E&title_color=E9D5FF&text_color=FFF" alt="Raylan Araújo's GitHub Stats" /></a> | <a href="https://github.com/raylanraraujo"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raylanraraujo&layout=compact&theme=radical&border_color=30A3DC&bg_color=1F222E&title_color=E9D5FF&text_color=FFF" alt="Most Used Languages" /></a> |
-|---|---|
-
-
-### GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/raylanraraujo">
-        <img src="https://github-readme-stats.vercel.app/api?username=raylanraraujo&show_icons=true&theme=radical&border_color=30A3DC&bg_color=1F222E&title_color=E9D5FF&text_color=FFF" alt="Raylan Araújo's GitHub Stats" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/raylanraraujo">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raylanraraujo&layout=compact&theme=radical&border_color=30A3DC&bg_color=1F222E&title_color=E9D5FF&text_color=FFF" alt="Most Used Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-### GitHub Stats
-
-<p align="center">
+<p align="left">
   <a href="https://github.com/raylanraraujo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raylanraraujo&show_icons=true&theme=radical&border_color=30A3DC&bg_color=1F222E&title_color=E9D5FF&text_color=FFF" alt="Raylan Araújo's GitHub Stats"/>
   </a>
@@ -64,20 +41,3 @@ Farmacêutico generalista formado pela Universidade Federal do Ceará (UFC) com 
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raylanraraujo&layout=compact&theme=radical&border_color=30A3DC&bg_color=1F222E&title_color=E9D5FF&text_color=FFF" alt="Most Used Languages"/>
   </a>
 </p>
-
-### GitHub Stats
-
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
-      <a href="https://github.com/raylanraraujo">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raylanraraujo&show_icons=true&theme=radical&border_color=30A3DC&bg_color=1F222E&title_color=E9D5FF&text_color=FFF" alt="Raylan Araújo's GitHub Stats" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/raylanraraujo">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raylanraraujo&layout=compact&theme=radical&border_color=30A3DC&bg_color=1F222E&title_color=E9D5FF&text_color=FFF" alt="Most Used Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
