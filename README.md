@@ -17,6 +17,19 @@ Farmacêutico generalista formado pela Universidade Federal do Ceará (UFC) com 
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raylanraraujo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=True&hide=stars)
+### GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raylanraraujo&layout=compact&bg_color=000&border_color=30A3DC&title_color=E9D5F&text_color=FFF)
+<table width="100%">
+    <tr>
+        <td align="center">
+            <a href="https://github.com/raylanraraujo">
+                <img src="https://github-readme-stats.vercel.app/api?username=raylanraraujo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=True&hide=stars" alt="Estatísticas do GitHub" />
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/raylanraraujo">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raylanraraujo&layout=compact&bg_color=000&border_color=30A3DC&title_color=E9D5F&text_color=FFF" alt="Linguagens Mais Usadas" />
+            </a>
+        </td>
+    </tr>
+</table>
