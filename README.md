@@ -1,5 +1,3 @@
-# raylanraraujo
-
 # Raylan Araújo &nbsp;👨🏻‍💻
 
 Farmacêutico generalista formado pela Universidade Federal do Ceará (UFC) com sólida experiência em análises clínicas e gestão, agora em transição para a área de tecnologia. Minha trajetória profissional, que inclui habilidades de liderança, resolução de problemas e proatividade, se une a um rápido aprendizado em programação, buscando construir uma carreira sólida nessa nova área.
